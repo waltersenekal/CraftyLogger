@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crafty Logger</string>
+    <string name="paint_by_numbers_list_heading">Paint By Numbers</string>
+    <string name="diamond_dot_list_heading">Diamond Dot</string>
+    <string name="paint_by_numbers">Paint By Numbers</string>
+    <string name="diamond_dot">Diamond Dot</string>
+    <string name="image">image</string>
+
+</resources>
